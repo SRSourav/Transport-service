@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Documentation: http://docs.salmansourav.apiary.io/#reference/0/bus-schedule-id
